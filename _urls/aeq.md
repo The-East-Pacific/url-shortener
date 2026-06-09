@@ -1,3 +1,3 @@
 ---
-redirect_to: https://cerulean.nsr3n.info/endotarting_queries/submit.sh
+redirect_to: https://tart.calref.ca/
 ---
