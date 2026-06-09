@@ -1,3 +1,3 @@
 ---
-redirect_to: https://forum.theeastpacific.com/t/welcome-megathread/16248
+redirect_to: https://forum.theeastpacific.com/c/the-gateway/476
 ---
