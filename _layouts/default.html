@@ -1,1 +1,28 @@
-> ⚠️ **Heads up:** These short links are out of date and are currently being updated. Some destinations may change.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <style>
+    .notice {
+      background:#fff3cd;
+      color:#664d03;
+      border-bottom:1px solid #ffecb5;
+      padding:12px 16px;
+      text-align:center;
+      font-family:system-ui,sans-serif;
+      font-size:15px;
+    }
+    .notice strong { font-weight:600; }
+    body { margin:0; }
+  </style>
+</head>
+<body>
+  <div class="notice">
+    ⚠️ <strong>Notice:</strong> These links are out of date and are being updated. Destinations may change.
+  </div>
+  {{ content }}
+</body>
+</html>
