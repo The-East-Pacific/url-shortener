@@ -1,3 +1,3 @@
 ---
-redirect_to: https://forum.theeastpacific.com/t/citizenship-masking-request/16246
+redirect_to: https://forum.theeastpacific.com/t/citizenship-applications-and-citizenship-roster/16247
 ---
