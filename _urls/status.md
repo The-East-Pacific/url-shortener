@@ -1,3 +1,3 @@
 ---
-redirect_to: https://twitter.com/TheEastPacific
+redirect_to: https://stats.uptimerobot.com/Zpww6SMzJL
 ---
