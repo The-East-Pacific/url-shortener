@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <style>
   .tep-notice {
     background:#fff3cd;
@@ -19,7 +18,7 @@ layout: default
 <div class="tep-notice">
   ⚠️ <strong>Notice:</strong> These links are out of date and are being updated. Destinations may change.
 </div>
-
+<br></br>
 {% assign redirects = site.urls | where_exp: "item", "item.redirect_to != nil" %}
 
 {% for page in redirects %}
