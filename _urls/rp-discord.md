@@ -1,3 +1,3 @@
 ---
-redirect_to: https://discord.gg/8H5zFct
+redirect_to: https://tep.li/discord
 ---
